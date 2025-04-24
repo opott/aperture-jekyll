@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: aperture-jekyll
+description: "Aperture is a simple Jekyll theme for photography portfolios."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
